@@ -1,0 +1,11 @@
+﻿  Main.cpp
+Main.cpp(138): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+Main.cpp(403): warning C4305: '+=': truncation from 'double' to 'float'
+Main.cpp(405): warning C4305: '+=': truncation from 'double' to 'float'
+Main.cpp(409): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Main.cpp(410): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  All 143 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Polyline Editor.vcxproj -> D:\Development\Visual Studio Apps\Polyline Editor\Release\Polyline Editor.exe
+  Polyline Editor.vcxproj -> D:\Development\Visual Studio Apps\Polyline Editor\Release\Polyline Editor.pdb (Full PDB)

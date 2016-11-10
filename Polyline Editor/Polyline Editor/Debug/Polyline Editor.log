@@ -1,0 +1,8 @@
+﻿  Main.cpp
+d:\development\visual studio apps\polyline editor\polyline editor\main.cpp(138): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+d:\development\visual studio apps\polyline editor\polyline editor\main.cpp(408): warning C4305: '+=': truncation from 'double' to 'float'
+d:\development\visual studio apps\polyline editor\polyline editor\main.cpp(410): warning C4305: '+=': truncation from 'double' to 'float'
+d:\development\visual studio apps\polyline editor\polyline editor\main.cpp(414): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\development\visual studio apps\polyline editor\polyline editor\main.cpp(415): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Polyline Editor.vcxproj -> D:\Development\Visual Studio Apps\Polyline Editor\Debug\Polyline Editor.exe
+  Polyline Editor.vcxproj -> D:\Development\Visual Studio Apps\Polyline Editor\Debug\Polyline Editor.pdb (Partial PDB)
